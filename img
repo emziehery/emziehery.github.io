@@ -1,0 +1,6 @@
+<html>
+    <body>
+    <img src="jp3.jpg" height="400" width="370">
+    <img src="jp3.jpg" height="200" width="185" border="10">
+    </body>
+</html>
