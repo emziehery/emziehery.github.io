@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <h1 align="center">中國文學欣賞</h1>
+  </head> 
+  
+  <table>
+    <tr>
+    <td frame="void" width="120" height="200" bgcolor="yellow" valign="top">
+    <ul>
+        <li><a href="file\唐時.html">唐時</a></li>
+        <li><a href="file\末題.html">末題</a></li>
+        <li><a href="file\云曲.html">云曲</a></li>
+    </ul>
+    </td>
+    <td frame="void" width="450" height="200" bgcolor="gray" valign="top" >
+        <dt>中國文化博大精深，尤以唐時，宋詞，元曲最為精妙，其中唐</dt>
+        <dt>時的結構工整，要求押韻，平大等格律，又分為四句的絕句和</dt>
+        <dt>八句的律時，而且唐時的題材亦相當多元化，從抒發一已之情</dt>
+        <dt>感，到反映社會現實，皆有傑出的作品。</dt>
+    </td>
+    
+    <tfoot>
+    <td colspan="2" align="center"> 快樂工作室版權所有©Copyright 2016</td>
+    </td> 
+    </table>
+  
